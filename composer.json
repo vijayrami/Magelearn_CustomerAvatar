@@ -1,0 +1,21 @@
+{
+    "name": "magelearn/module-customeravatar",
+    "description": "This module adds ability to Customer to upload the profile picture in their account.",
+    "type": "magento2-module",
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "email": "vijaymrami@gmail.com",
+            "name": "vijay rami"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Magelearn\\CustomerAvatar\\": ""
+        }
+    }
+}
