@@ -12,9 +12,12 @@ You can solve this issue in two ways.
 
 1. Reconfigure your <b>php.ini</b> and set the value <b>upload_tmp_dir</b> to one of the below allowed folders of Magento.
 
-~<magento_root>/pub/media~
+"<magento_root>/pub/media"
+
 "<magento_root>/var"
+
 "<magento_root>/var/tmp"
+
 "<magento_root>/pub/media/upload"
 
 2. Go to <code>vendor/magento/framework/File/Uploader.php</code>
