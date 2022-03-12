@@ -14,7 +14,7 @@ You can solve this issue in two ways.
 
 2. Go to <code>vendor/magento/framework/File/Uploader.php</code>
 
-In function _setUploadFileId($fileId), change:
+In function ##_setUploadFileId($fileId)##, change:
 
 $this->validateFileId($fileId);
 to
