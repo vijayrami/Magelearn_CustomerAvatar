@@ -35,4 +35,4 @@ https://magento.stackexchange.com/questions/296044/invalid-parameter-given-a-val
 
 # Screenshots
 
-[![Home-Page.gif](https://i.postimg.cc/g21PwPSN/Home-Page.gif)](https://postimg.cc/ZWPQgXhd)
+[![Home-Page.gif](https://i.postimg.cc/g21PwPSN/Home-Page.gif)]
