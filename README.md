@@ -35,4 +35,4 @@ https://magento.stackexchange.com/questions/296044/invalid-parameter-given-a-val
 
 # Screenshots
 
-<a href='https://postimg.cc/ZWPQgXhd' target='_blank'><img src='https://i.postimg.cc/ZWPQgXhd/Home-Page.gif' border='0' alt='Home-Page'/></a>
+<a href="https://ibb.co/X5WbNWp"><img src="https://i.ibb.co/X5WbNWp/Home-Page.gif" alt="Home-Page" border="0"></a>
