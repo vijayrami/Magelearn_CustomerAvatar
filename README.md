@@ -35,9 +35,7 @@ https://magento.stackexchange.com/questions/296044/invalid-parameter-given-a-val
 
 # Screenshots
 
-<a href="https://ibb.co/X5WbNWp"><img src="https://i.ibb.co/JpcK0c2/Home-Page.gif" alt="Home-Page" border="0"></a>
-
-[![Home-Page.gif](https://i.ibb.co/JpcK0c2/Home-Page.gif)](https://ibb.co/X5WbNWp)
+[![Home-Page-1.gif](https://i.postimg.cc/XJSLB26R/Home-Page-1.gif)](https://postimg.cc/CZ7kWs17)
 
 [![Customers-Customers-Magento-Admin.png](https://i.postimg.cc/7654bZDs/Customers-Customers-Magento-Admin.png)](https://postimg.cc/ygCtbBDc)
 
